@@ -31954,7 +31954,7 @@ A.wI.prototype={
 T(a){var s,r,q,p,o,n,m,l=null,k=4293951616,j=4289583334,i=4294956800,h=4294951115,g=t.w,f=A.cT(a,l,g).w
 g=A.cT(a,l,g).w
 f=A.Y2(l,l,l,new A.eV(l,A.a0g(B.fU,new A.iY("assets/background.jpg",l,l)),l,l,l,l,B.b1),g.a.b,l,l,f.a.a)
-g=A.Ot(40,A.vf(A.on(l,A.hd("Sugest\xe3o de presente",A.cs().$1$textStyle(A.aU(l,l,A.eX(49,124,144,1),l,l,l,l,l,l,l,l,20,l,l,l,l,l,!0,l,l,l,l,l,l,l,l)),B.a0),B.aq,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.Ll(a),l,l,l),l,l),l,l,0,0,l,l)
+g=A.Ot(10,A.vf(A.on(l,A.hd("Sugest\xe3o de presente",A.cs().$1$textStyle(A.aU(l,l,A.eX(49,124,144,1),l,l,l,l,l,l,l,l,20,l,l,l,l,l,!0,l,l,l,l,l,l,l,l)),B.a0),B.aq,!1,l,l,l,l,l,l,l,l,l,l,l,l,l,l,new A.Ll(a),l,l,l),l,l),l,l,0,0,l,l)
 s=$.ad()
 r=s.aR()
 r.sbS(B.C)
@@ -32000,7 +32000,7 @@ A.lR.prototype={
 T(a){var s,r=null,q=t.w,p=A.cT(a,r,q).w
 q=A.cT(a,r,q).w
 s=t.nA
-return A.a2i(A.qB(B.X,A.a([A.Y2(r,r,r,new A.eV(r,A.a0g(B.fU,new A.iY("assets/background.jpg",r,r)),r,r,r,r,B.b1),q.a.b,r,r,p.a.a),A.Ot(40,A.vf(A.on(r,A.hd("Voltar",A.cs().$1$textStyle(A.aU(r,r,A.eX(49,124,144,1),r,r,r,r,r,r,r,r,20,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),B.a0),B.aq,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.R1(a),r,r,r),r,r),r,r,0,0,r,r),new A.iV(B.X,r,r,new A.cL(B.ib,A.Ib(A.a([new A.cL(new A.aX(95,20,95,20),A.hd("Sugest\xf5es de Presentes",A.cs().$1$textStyle(A.aU(r,r,A.eX(49,124,144,1),r,r,r,r,r,r,r,r,25,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),B.a0),r),new A.cL(new A.aX(95,0,95,0),A.hd("1. Fraldas tamanho P\n2. Fraldas tamanho M\n3. Fraldas tamanho G\n4. Caso queira pode me dar um mimozinho",A.Xt().$1$textStyle(A.aU(r,r,A.eX(49,124,144,1),r,r,r,r,r,r,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),B.a0),r),A.fg(r,40,r)],s),B.c2),r),r)],s),B.ch))}}
+return A.a2i(A.qB(B.X,A.a([A.Y2(r,r,r,new A.eV(r,A.a0g(B.fU,new A.iY("assets/background.jpg",r,r)),r,r,r,r,B.b1),q.a.b,r,r,p.a.a),A.Ot(10,A.vf(A.on(r,A.hd("Voltar",A.cs().$1$textStyle(A.aU(r,r,A.eX(49,124,144,1),r,r,r,r,r,r,r,r,20,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),B.a0),B.aq,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.R1(a),r,r,r),r,r),r,r,0,0,r,r),new A.iV(B.X,r,r,new A.cL(B.ib,A.Ib(A.a([new A.cL(new A.aX(95,20,95,20),A.hd("Sugest\xf5es de Presentes",A.cs().$1$textStyle(A.aU(r,r,A.eX(49,124,144,1),r,r,r,r,r,r,r,r,25,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),B.a0),r),new A.cL(new A.aX(95,0,95,0),A.hd("1. Fraldas tamanho P\n2. Fraldas tamanho M\n3. Fraldas tamanho G\n4. Caso queira pode me dar um mimozinho",A.Xt().$1$textStyle(A.aU(r,r,A.eX(49,124,144,1),r,r,r,r,r,r,r,r,18,r,r,r,r,r,!0,r,r,r,r,r,r,r,r)),B.a0),r),A.fg(r,40,r)],s),B.c2),r),r)],s),B.ch))}}
 A.R1.prototype={
 $0(){A.Nw(this.a).pc(null)},
 $S:0}
