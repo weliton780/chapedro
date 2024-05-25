@@ -38820,10 +38820,12 @@ p=A.m4(new A.aH(q,p),new A.a6i(this),p.h("j.E"),t.iF)
 B.b.J(r,A.a2(p,!0,A.w(p).h("j.E")))
 return A.afG(A.vW(B.a5,A.a([m,n,A.r_(new A.FL(A.Qw(r,B.fU,B.cu),o),o,o)],s),B.cQ))}}
 A.a6e.prototype={
-$2(a,b){var s,r=this
-if(b){s=r.a;++s.b
-r.b.d.A(0,A.ax(["item",a,"quantidade",1],t.N,t.K)).aH(new A.a6c(s,a,r.c),t.P).hN(new A.a6d())}else{s=r.a
-if(s.b>0){if(s.a===r.c)A.zl("https://api.whatsapp.com/send?phone=554788473696&text=Ol%C3%A1%2C%20gostaria%20de%20confirmar%20a%20presen%C3%A7a%20no%20ch%C3%A1%20do%20Pedro.")}else window.location.reload()}},
+$2(a,b){var s,r,q=this
+if(b){s=q.a;++s.b
+q.b.d.A(0,A.ax(["item",a,"quantidade",1],t.N,t.K)).aH(new A.a6c(s,a,q.c),t.P).hN(new A.a6d())}s=q.a
+r=++s.a
+if(s.b>0)if(r===q.c){window.location.reload()
+A.zl("https://api.whatsapp.com/send?phone=554788473696&text=Ol%C3%A1%2C%20gostaria%20de%20confirmar%20a%20presen%C3%A7a%20no%20ch%C3%A1%20do%20Pedro.")}if(s.b===0)window.location.reload()},
 $S:382}
 A.a6c.prototype={
 $1(a){A.hj("Item adicionado: "+this.b)
