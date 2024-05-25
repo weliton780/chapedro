@@ -38816,18 +38816,17 @@ n=A.cF(a,o,n).w
 m=A.ln(o,o,o,new A.fC(o,A.adh(B.ie,new A.lc("assets/background.jpg",o,o)),o,o,o,o,B.b8),n.a.b,o,o,m.a.a)
 n=A.Yd(20,A.tj(o,A.i_("Confirmar Presentes",o,o,o,A.dY().$1$textStyle(A.bj(o,o,A.fD(49,124,144,1),o,o,o,o,o,o,o,o,20,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)),B.am),B.au,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.a6j(this),o,o,o),o,o,0,0,o,o)
 s=t.af
-r=A.a([A.fn(o,190,o),new A.dm(new A.bh(95,0,95,0),A.i_("Para um melhor gerenciamento do papai e da mam\xe3e, selecione as op\xe7\xf5es que quiser me presentear.",o,o,o,A.qv().$1$textStyle(A.bj(o,o,A.fD(49,124,144,1),o,o,o,o,o,o,o,o,16,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)),B.am),o),A.fn(o,5,o)],s)
+r=A.a([A.fn(o,175,o),new A.dm(new A.bh(95,0,95,0),A.i_("Para um melhor gerenciamento do papai e da mam\xe3e, selecione as op\xe7\xf5es que quiser me presentear.",o,o,o,A.qv().$1$textStyle(A.bj(o,o,A.fD(49,124,144,1),o,o,o,o,o,o,o,o,16,o,o,o,o,o,!0,o,o,o,o,o,o,o,o)),B.am),o),A.fn(o,5,o)],s)
 q=this.e
 p=A.w(q).h("aH<1>")
 p=A.m4(new A.aH(q,p),new A.a6k(this),p.h("j.E"),t.iF)
 B.b.J(r,A.a2(p,!0,A.w(p).h("j.E")))
 return A.afH(A.vY(B.a5,A.a([m,n,A.ny(new A.FL(A.Qw(r,B.fU,B.cu),o),o,o)],s),B.cQ))}}
 A.a6g.prototype={
-$2(a,b){var s,r=this,q=r.a
-if(b)r.b.d.A(0,A.ax(["item",a,"quantidade",1],t.N,t.K)).aH(new A.a6e(q,a,r.c),t.P).hN(new A.a6f())
-else{q=++q.a
-s=r.c
-if(s>0){if(q===s)A.qg(u.J)}else window.location.reload()}},
+$2(a,b){var s=this,r=s.a
+if(b)s.b.d.A(0,A.ax(["item",a,"quantidade",1],t.N,t.K)).aH(new A.a6e(r,a,s.c),t.P).hN(new A.a6f())
+else{r=++r.a
+if(r>1){if(r===s.c)A.qg(u.J)}else window.location.reload()}},
 $S:382}
 A.a6e.prototype={
 $1(a){A.hk("Item adicionado: "+this.b)
